@@ -1,0 +1,23 @@
+{
+  "name": "fcc-timestamp",
+  "version": "1.0.0",
+  "description": "freecodecamp timestamp server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrwesdunn/fcc-timestamp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrwesdunn/fcc-timestamp/issues"
+  },
+  "homepage": "https://github.com/mrwesdunn/fcc-timestamp#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "strftime": "^0.9.2"
+  }
+}
